@@ -1,3 +1,6 @@
+### Caso Práctico IBM SkillsBuild - Python
+
+
 Escribir un programa en Python que genere una matriz de tamaño NxN y la llene con números aleatorios entre 0 y 9. El programa deberá imprimir la matriz generada y luego calcular la suma de los elementos de cada fila y columna. Finalmente, deberá imprimir la suma de cada fila y columna.
 
 El programa deberá incluir las siguientes características:
