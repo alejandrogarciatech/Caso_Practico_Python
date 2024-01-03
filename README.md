@@ -12,4 +12,4 @@ d) Calcular la suma de cada fila y columna: El programa deberá calcular la suma
 
 e) Imprimir la suma de cada fila y columna: El programa deberá imprimir en pantalla la suma de cada fila y columna.
 
-Además, se sugiere que el programa incluya manejo de excepciones en caso de que el usuario ingrese un valor no válido para N, también que incluya comentarios para explicar el código y finalmente que se hagan los test unitarios necesarios para asegurar que el resultado es el esperado."""
+Además, se sugiere que el programa incluya manejo de excepciones en caso de que el usuario ingrese un valor no válido para N, también que incluya comentarios para explicar el código y finalmente que se hagan los test unitarios necesarios para asegurar que el resultado es el esperado.
